@@ -1,4 +1,4 @@
-from entities.person import Patient, Doctor, Admin
+from domain.entities.person import Patient, Doctor, Admin
 
 class PersonFactory:
     @staticmethod
